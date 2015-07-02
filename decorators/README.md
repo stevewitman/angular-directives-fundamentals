@@ -1,0 +1,1 @@
+Started at the 4rd module of this video tutorial ... http://www.pluralsight.com/training/player?author=joe-eames&name=angularjs-directive-fundamentals-m3&mode=live&clip=3&course=angularjs-directive-fundamentals
